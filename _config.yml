@@ -24,7 +24,7 @@ customize:
     highlight: github
     sidebar: right # sidebar position, options: left, right or leave it empty
     thumbnail: true # enable posts thumbnail, options: true, false
-    favicon: # path to favicon
+    favicon: css/images/logo.png # path to favicon
     social_links:
         github: https://github.com/daix6
         weibo: https://weibo.com/1996DX
